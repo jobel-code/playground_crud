@@ -7,3 +7,7 @@ Here, Instead of clonning the original repo, are the resulting app from video tu
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+
+## NOTE:
+For configuring Firebase (add the missing google-services.json) please follow these [steps](https://codelabs.developers.google.com/codelabs/flutter-firebase/).
